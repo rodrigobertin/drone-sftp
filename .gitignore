@@ -1,4 +1,4 @@
 /release/
 /drone-sftp*
-
+.idea
 coverage.out
